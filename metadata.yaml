@@ -1,0 +1,28 @@
+_repo: Les-Aspirans-de-marine-volume-2_65263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corbière, Edouard
+    aliases:
+    - Corbiere, Edouard
+    - Corbière, Édouard
+    birthdate: 1793
+    deathdate: 1875
+    gutenberg_agent_id: '6234'
+    url: http://www.gutenberg.org/2009/agents/6234
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Edouard_Corbière
+    - https://en.wikipedia.org/wiki/%C3%89douard_Corbi%C3%A8re
+description: ''
+gutenberg_issued: '2021-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65263'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les Aspirans de marine, volume 2
+url: http://www.gutenberg.org/ebooks/65263
