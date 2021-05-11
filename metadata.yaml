@@ -1,5 +1,8 @@
 _repo: Les-Aspirans-de-marine-volume-2_65263
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65263-h/images/cover.jpg
 creator:
   author:
     agent_name: Corbière, Edouard
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Edouard_Corbière
     - https://en.wikipedia.org/wiki/%C3%89douard_Corbi%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65263#Les-Aspirans-de-marine-volume-2
 gutenberg_issued: '2021-05-05'
 gutenberg_type: Text
 identifiers:
